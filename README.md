@@ -8,5 +8,5 @@
     2.4 cucumber-jvm
     2.5 Gherkin
     2.6 Selenium
-3. 
+3. Section 22 - lecture036 - adding all dependencies from author
     
